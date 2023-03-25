@@ -6,8 +6,8 @@ const initialState = {
             name: "Education",
             cards: [{
                 id: nanoid(),
-                title: "card2",
-                link: "https://youtube.com/embed/cV2gBU6hKfY"
+                title: "Web Development Bootcamp",
+                link: "https://youtube.com/embed/l1EssrLxt7E"
             }]
         },
         {
@@ -15,8 +15,8 @@ const initialState = {
             name: "Standup Comedy",
             cards: [{
                 id: nanoid(),
-                title: "card2",
-                link: "https://youtube.com/embed/z9bZufPHFLU"
+                title: "Bassi Standup",
+                link: "https://youtube.com/embed/Tqsz6fjvhZM"
             }]
         },
         {
@@ -24,19 +24,14 @@ const initialState = {
             name: "Movie Trailers",
             cards: [{
                     id: nanoid(),
-                    title: "card1",
-                    link: "https://youtube.com/embed/hVvAkPbJwnw"
+                    title: "Avengers",
+                    link: "https://youtube.com/embed/6ZfuNTqbHE8"
                 },
                 {
                     id: nanoid(),
-                    title: "card10",
-                    link: "https://youtube.com/embed/GQoQoJmmAuM"
-                },
-                {
-                    id: nanoid(),
-                    title: "card100",
-                    link: "link3"
-                },
+                    title: "Super30",
+                    link: "https://youtube.com/embed/QpvEWVVnICE"
+                }
 
             ]
         },
@@ -45,13 +40,13 @@ const initialState = {
             id: nanoid(),
             cards: [{
                     id: nanoid(),
-                    title: "Song1",
-                    link: "https://youtube.com/embed/MyNSOu-Fl-k"
+                    title: "Udd Gaye",
+                    link: "https://youtube.com/embed/0gosur3db5I"
                 },
                 {
                     id: nanoid(),
-                    title: "Song3",
-                    link: "https://youtube.com/embed/mTuPDGFboNU"
+                    title: "Sage",
+                    link: "https://youtube.com/embed/_kUrW9SEaJc"
                 },
             ]
         }
